@@ -6,8 +6,8 @@ from openai import OpenAI
 import os
 from dotenv import load_dotenv
 
-load_dotenv(".env")
-load_dotenv(".env.local")
+load_dotenv()
+
 
 # ---------- Data Models ---------- #
 class QueryRequest(BaseModel):
