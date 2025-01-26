@@ -1,12 +1,12 @@
-import pandas as pd
+import os
 import ast
-from typing import Optional
 from pydantic import BaseModel, Field
 from openai import OpenAI
-import os
 from dotenv import load_dotenv
+import pandas as pd
 
 load_dotenv()
+load_dotenv(".env.local", override=True)
 
 
 # ---------- Data Models ---------- #
