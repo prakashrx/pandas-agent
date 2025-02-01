@@ -1,4 +1,4 @@
-# AI Agent Project
+# Agents
 
 Experiments with AI agents.
 
