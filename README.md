@@ -1,6 +1,6 @@
 # Agents
 
-Experiments with AI agents.
+Experiments with `DeepSeek R1`
 
 ## Project Structure
 
