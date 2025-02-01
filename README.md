@@ -16,7 +16,7 @@ Experiments with AI agents.
 └── pyproject.toml        # Python project metadata
 ```
 
-## Installation
+## Setup
 
 1. Create virtual environment:
 
